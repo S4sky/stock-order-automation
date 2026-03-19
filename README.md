@@ -1,2 +1,13 @@
-# stock-order-automation
-Automation of supplier orders based on sales data
+Stock Order Automation / Автоматизация заказов
+
+Задача: рассчитать оптимальный объем заказа на основе продаж и остатков.
+
+Данные:** выгрузка из 1С (~2000 SKU)
+
+Результат:
+- сокращение времени подготовки заказа с 2 часов до 5 минут
+
+Параметры:
+- season_months — период анализа
+- season_multi — коэффициент запаса
+- anomaly_threshold — порог всплеска
