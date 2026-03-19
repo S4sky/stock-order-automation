@@ -1,5 +1,12 @@
 ## Stock Order Automation / Автоматизация заказов поставщикам
 
+### Example Output
+
+| Warehouse | Order | Spike Flag |
+|----------|------|-----------|
+| A        | 50   | 0         |
+| B        | 120  | 1         |
+
 ###English
 
 Task: calculate the optimal order quantity based on sales history and current stock levels.
