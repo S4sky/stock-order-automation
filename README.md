@@ -20,7 +20,7 @@ Features:
 - demand spike detection (high sales flag)
 
 Result:
-- reduced order preparation time from 2 hours to 15 minutes
+- reduced order preparation time from 2 hours to 5 minutes
 - improved stock control (reduced shortages and overstock)
 
 Parameters:
@@ -43,7 +43,7 @@ Parameters:
 - выявление всплесков спроса (флаг аномальных продаж)
 
 Результат:
-- сокращение времени подготовки заказа с 2 часов до 15 минут
+- сокращение времени подготовки заказа с 2 часов до 5 минут
 - снижение риска дефицита и избыточных запасов
 
 Параметры:
